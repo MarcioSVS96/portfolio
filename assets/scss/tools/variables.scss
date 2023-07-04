@@ -1,0 +1,29 @@
+// Paleta de cores
+$bg: #fff;
+$fg: #888;
+$fg-bold: #777;
+$fg-light: #aaa;
+$border: #f4f4f4;
+$border-bg:	#fafafa;
+$border2: #e4e4e4;
+$border2-bg: #f4f4f4;
+$border3: #e0e0e0;
+$border3-bg: #eaeaea;
+
+// accent 1
+$accent-1-bg:#4acaa8;
+$accent-1-fg-bold:#ffffff;
+$accent-1-fg:mix(#4acaa8, #ffffff, 25%);
+$accent-1-fg-light:mix(#4acaa8, #ffffff, 40%);
+
+// accent 2
+$accent-2-bg:#989898;
+$accent-2-fg-bold:#ffffff;
+$accent-2-fg:mix(#989898, #ffffff, 25%);
+$accent-2-fg-light:mix(#989898, #ffffff, 40%);
+
+// header
+$header-bg:#989898;
+$header-fg-bold:#ffffff;
+$header-fg:mix(#989898, #ffffff, 25%);
+$header-fg-light:mix(#989898, #ffffff, 40%);
